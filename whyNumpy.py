@@ -1,3 +1,8 @@
+#for data science enthusiasts
+#just you need python3 in your machine
+#all the necessery packages will be downloaded by your will
+
+
 import os
 import time
 try:
