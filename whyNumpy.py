@@ -1,6 +1,8 @@
 #for data science enthusiasts
 #just you need python3 in your machine
 #all the necessery packages will be downloaded by your will
+#here you can see how fast is numpy
+#later i will plot and upload them -> numpy is so fast plotting it in matplotlib or seaborn, numpy curve is unoticable
 
 
 import os
