@@ -1,3 +1,8 @@
+#new file will be updated and old will be removed
+#you can give new_name as instance.pk
+#KEEP UR SERVER CLEAN
+#deletes redundent files
+
 import re
 import os
 from django.db import models
