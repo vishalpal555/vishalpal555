@@ -20,7 +20,7 @@ except ModuleNotFoundError:
     
     else:
         print("Exiting....!! ;(")
-        exit
+        exit()
 
 
 def mySum(listArgs):
